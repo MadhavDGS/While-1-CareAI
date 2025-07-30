@@ -1,10 +1,10 @@
-# While(1)CareAI
+# PurvaLaksana
 
 An AI-powered healthcare companion empowering rural clinics and medical interns with advanced medical image analysis, heart monitoring, and risk assessment through a dual-interface system that supports clinical decision-making when senior doctors are unavailable.
 
 ## Project Overview
 
-While(1)CareAI is a comprehensive healthcare solution integrating AI for medical image analysis, designed specifically to support healthcare delivery in resource-constrained settings. Our multi-user platform serves both patients and healthcare professionals, providing secure, accessible healthcare analysis at their fingertips.
+PurvaLaksana is a comprehensive healthcare solution integrating AI for medical image analysis, designed specifically to support healthcare delivery in resource-constrained settings. Our multi-user platform serves both patients and healthcare professionals, providing secure, accessible healthcare analysis at their fingertips.
 
 **Vision:** Making advanced medical diagnostics accessible to everyone, especially in areas with limited specialist access.
 
@@ -17,8 +17,8 @@ For ppt
 https://docs.google.com/presentation/d/1rUj-osOSw9LMpuM4ypk2f_lFPd-FrmKU/edit?usp=sharing&ouid=100389320335860981800&rtpof=true&sd=true
 
 
-Experience While(1)CareAI in action:
-- **Live Application:** [https://while-1-careai.streamlit.app](https://while-1-careai.streamlit.app)
+Experience PurvaLaksana in action:
+- **Live Application:** [https://purvalaksana.streamlit.app](https://purvalaksana.streamlit.app)
 - **Status:** Active and Running
 - **Access:** Available 24/7 for testing and demonstration
 
@@ -100,8 +100,8 @@ The live demo is hosted on Streamlit Cloud and represents the latest stable vers
 
 1. Clone the repository:
    ```
-   git clone https://github.com/MadhavDGS/While-1-CareAI.git
-   cd While-1-CareAI
+   git clone https://github.com/MadhavDGS/PurvaLaksana.git
+   cd PurvaLaksana
    ```
 
 2. Install the required dependencies:
@@ -169,7 +169,7 @@ Note: These test images are carefully selected examples and are meant for demons
 
 ## Contributing
 
-We welcome contributions to improve While(1)CareAI and make healthcare more accessible worldwide!
+We welcome contributions to improve PurvaLaksana and make healthcare more accessible worldwide!
 
 ## Disclaimer
 
